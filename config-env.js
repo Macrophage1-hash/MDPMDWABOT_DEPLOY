@@ -6,7 +6,7 @@ let rf = process.env.AUTH_PATH || "auth_info_baileys";
 
 var GITHUB_TOKEN;
 var BOT_NUMBER;
-var SESSION_ID;
+var SESSION_ID;levanter_3a8d60566827c41be812cb8a22aac54fb
 
 
 if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
